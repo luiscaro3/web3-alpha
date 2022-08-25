@@ -1,0 +1,1 @@
+import { Platform, LogBox } from "react-native";
